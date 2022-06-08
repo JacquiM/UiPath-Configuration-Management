@@ -1,4 +1,4 @@
-# UiPath-Configuration-Management
+# UiPath Configuration Management
 The implementation of configuration management using UiPath Apps, Data Services and integration into UiPath Studio. All collateral is stored in this repository.
 
 There are multiple different ways that configuration can be managed for automation solutions - even the cross-toolset solutions. The key considerations should be around how to implement and control the configuration items, the middleware and the process:
