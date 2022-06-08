@@ -25,4 +25,7 @@ Use the solution located in the **UiPath Studio Implementation** folder to test 
 
 ![image](https://user-images.githubusercontent.com/26733937/172580596-c692d5c8-047f-409a-ae31-80e97bd704f7.png)
 
-If you get stuck, feel free to follow The JPanda blog post explaining the steps in greater detail.
+If you get stuck, feel free to follow The JPanda blog post explaining the steps in greater detail or refer to the <a href="https://community.uipath.com/events/details/uipath-johannesburg-presents-configuration-management-and-data-service-deep-dive/" target="_blank">UiPath Zurich-Johannesburg Community Meetup</a> session.
+
+## Acknowledgements
+A huge thanks to <a href="https://github.com/RomanRTNM" target="_blank">Roman Tobler</a> for his contribution to the topic.
